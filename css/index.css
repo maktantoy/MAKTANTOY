@@ -1,0 +1,30 @@
+#background {
+	background-image: url('css/Background.jpg');
+	position: absolute;
+	background-attachment: fixed;
+	background: 100% 100%;
+}
+
+#Headerintro {
+	font-size: 100px;
+	color: white;
+}
+
+#introtext {
+	font-size: 30px;
+	color: white;
+}
+
+#aboutus {
+	text-align: center;
+	font-size: 90px;
+}
+
+#aboutustext {
+	text-align: center;
+	font-size: 25px;
+}
+
+#contactext {
+	font-size: 25px;
+}

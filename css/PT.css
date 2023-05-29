@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+table, thead, tbody, tr, td{
+    border: 5px solid aquamarine;
+    text-align: center;
+}
+table{
+    width: 30px;
+    height: 30px;
+    border-collapse: collapse;
+    font-size: 30px;
+    border: 5px solid black;
+}
+.blue{
+    color: rgb(98, 98, 238); 
+}
+.magenta{
+    color: magenta;
+}
+.violet{
+    color: violet;
+}
+.lgreen{
+    color: green;
+}
+.aqua{
+    color: aqua;
+}
+.honey{
+    color: rgb(218, 218, 89);
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+.names{
+    color: aquamarine;
+}
+.orange{
+    color: orange;
+}
+.yorange{
+    color: orangered;
+}
+.Title{
+    color: aqua;
+    text-size-adjust: 10px;
+}
